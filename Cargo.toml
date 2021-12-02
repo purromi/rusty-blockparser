@@ -38,7 +38,7 @@ opt-level = 3
 debug = true
 rpath = false
 lto = true
-debug-assertions = false
+debug-assertions = true
 codegen-units = 1
 
 # The testing profile, used for `cargo test`
